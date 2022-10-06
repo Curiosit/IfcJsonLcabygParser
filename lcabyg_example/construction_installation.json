@@ -1,0 +1,36 @@
+[
+    {
+        "Node": {
+            "ConstructionInstallation": {
+                "id": "020cc362-536b-484e-b8f9-6507b40ab675"
+            }
+        }
+    },
+    {
+        "Edge": [
+            {
+                "ProcessToInstallation": "dd928199-b70a-43f8-8556-4f740dccd1ef"
+            },
+            "349738da-9747-4d5c-b508-2a810317166f",
+            "020cc362-536b-484e-b8f9-6507b40ab675"
+        ]
+    },
+    {
+        "Edge": [
+            {
+                "FuelUsage": "f069389f-b870-4c63-9362-88dc8c9912c9"
+            },
+            "020cc362-536b-484e-b8f9-6507b40ab675",
+            "5e5ccea5-5243-494b-9a49-292ada027abe"
+        ]
+    },
+    {
+        "Edge": [
+            {
+                "InstallationOperation": "082b809c-9850-4a72-8dbb-7ec74d0fec15"
+            },
+            "020cc362-536b-484e-b8f9-6507b40ab675",
+            "c33cf608-9ceb-47f3-9ccf-c3ecb58ddb96"
+        ]
+    }
+]

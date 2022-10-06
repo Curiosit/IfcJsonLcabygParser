@@ -1,0 +1,29 @@
+[
+    {
+        "Node": {
+            "Product": {
+                "id": "51bcec85-9105-4946-8a8a-51219bf9adfa",
+                "name": {
+                    "Danish": "Test byggevare",
+                    "English": "Test product",
+                    "German": ""
+                },
+                "source": "User",
+                "comment": "",
+                "locked": true
+            }
+        }
+    },
+	{
+        "Edge": [
+            {
+                "ProductToStage": {
+                    "id": "b5fa60ba-c513-48a0-83e7-42258b2f8e5e",
+                    "enabled": true
+                }
+            },
+            "51bcec85-9105-4946-8a8a-51219bf9adfa",
+            "61a77bc8-bddb-4521-9862-e613e26a5661"
+        ]
+    }
+]
