@@ -1,0 +1,41 @@
+[
+	{
+        "Node": {
+            "Stage": {
+                "id": "61a77bc8-bddb-4521-9862-e613e26a5661",
+                "name": {
+                    "Danish": "Test fase (A1-A3)",
+                    "English": "Test phase (A1-A3)",
+                    "German": ""
+                },
+                "comment": "",
+                "source": "User",
+                "locked": true,
+                "valid_to": "2020-01-01",
+                "stage": "A1to3",
+                "stage_unit": "M2",
+                "indicator_unit": "M2",
+                "stage_factor": 1.0,
+                "mass_factor": 100,
+                "indicator_factor": 1.0,
+                "external_source": "Test.dat 2020 II",
+                "external_id": "Test id",
+                "external_version": "00.00.011",
+                "external_url": "http://www.google.dk",
+                "indicators": {
+                    "GWP": 0,
+                    "ODP": 0,
+                    "POCP": 0,
+                    "AP": 0,
+                    "EP": 0,
+                    "ADPE": 0,
+                    "ADPF": 0,
+                    "PENR": 0,
+                    "PER": 0,
+                    "SENR": 0.0,
+                    "SER": 0.0
+                }
+            }
+        }
+    }
+]

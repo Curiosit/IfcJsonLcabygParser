@@ -1,0 +1,58 @@
+[
+    {
+        "Node": {
+            "Operation": {
+                "id": "0338d31e-3876-440d-a88c-2daa2dd81942",
+                "electricity_usage": 17.3,
+                "heat_usage": 0,
+                "electricity_production": 0
+            }
+        }
+    },
+    {
+        "Edge": [
+            {
+                "ElectricitySource": "af579fc8-0cad-40df-a3a4-ca36966aab9c"
+            },
+            "0338d31e-3876-440d-a88c-2daa2dd81942",
+            "e967c8e7-e73d-47f3-8cba-19569ad76b4d"
+        ]
+    },
+    {
+        "Edge": [
+            {
+                "HeatingSource": "38d00b33-2175-4743-b4ee-836a22562b56"
+            },
+            "0338d31e-3876-440d-a88c-2daa2dd81942",
+            "d92c95dc-cd10-4eb1-821d-5c724d9cafb8"
+        ]
+    },
+    {
+        "Node": {
+            "Operation": {
+                "id": "c33cf608-9ceb-47f3-9ccf-c3ecb58ddb96",
+                "electricity_usage": 0,
+                "heat_usage": 0,
+                "electricity_production": 0.0
+            }
+        }
+    },
+    {
+        "Edge": [
+            {
+                "ElectricitySource": "5a38b95a-e2ce-4802-8576-39511c9fd155"
+            },
+            "c33cf608-9ceb-47f3-9ccf-c3ecb58ddb96",
+            "e967c8e7-e73d-47f3-8cba-19569ad76b4d"
+        ]
+    },
+    {
+        "Edge": [
+            {
+                "HeatingSource": "36457e01-13be-43fe-860a-7aae588591a8"
+            },
+            "c33cf608-9ceb-47f3-9ccf-c3ecb58ddb96",
+            "84ddd0e5-85a1-48cb-ab90-aa19b3359458"
+        ]
+    }
+]
