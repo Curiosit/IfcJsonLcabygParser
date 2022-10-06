@@ -2,9 +2,10 @@
     {
         "Node": {
             "Construction": {
-                "id": "c6f24e0f-020a-4f0f-93c6-65beb50bd798",
+                "id": "8ca7c1ac-b83c-48d9-b03e-b19ebab1896f",
                 "name": {
-                    "Danish": "Test konstruktion"
+                    "Danish": "Test konstruktion",
+                    "English": "Test construction"
                 },
                 "unit": "M2",
                 "source": "User",
@@ -18,7 +19,7 @@
         "Edge": [
             {
                 "ConstructionToProduct": {
-                    "id": "65cc0492-7864-4598-9254-5f929379bae6",
+                    "id": "fb4d7a45-516e-49df-9c3a-f368a4b0e4fb",
                     "amount": 1500,
                     "unit": "M2",
                     "lifespan": 50,
@@ -27,8 +28,8 @@
                     "delayed_start": 0
                 }
             },
-            "c6f24e0f-020a-4f0f-93c6-65beb50bd798",
-            "51bcec85-9105-4946-8a8a-51219bf9adfa"
+            "8ca7c1ac-b83c-48d9-b03e-b19ebab1896f",
+            "8c115602-cc87-4668-bbb1-c09ecfe14b82"
         ]
     }
 ]
