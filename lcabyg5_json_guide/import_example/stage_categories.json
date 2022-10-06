@@ -1,0 +1,24 @@
+[
+	    {
+        "Node": {
+            "StageCategory": {
+                "id": "04be0ff0-908c-4a9e-8ddf-5760548941bf",
+                "name": {
+                    "Danish": "Test underkategori",
+                    "English": "",
+                    "German": ""
+                },
+                "external_class": "1.1.1"
+            }
+        }
+    },
+	{
+        "Edge": [
+            {
+                "Generic": "2521f3f7-c2c7-4d12-adbc-a3db4ad4d7a7"
+            },
+            "4cf6cca4-0814-42d3-b26d-c0dd3792bccd",
+            "61a77bc8-bddb-4521-9862-e613e26a5661"
+        ]
+    }
+]

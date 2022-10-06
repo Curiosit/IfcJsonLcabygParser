@@ -1,0 +1,25 @@
+[
+    {
+        "Node": {
+            "ConstructionProcess": {
+                "id": "349738da-9747-4d5c-b508-2a810317166f"
+            }
+        }
+    },
+    {
+        "Node": {
+            "ProductTransportRoot": {
+                "id": "915c5162-93bc-49c0-bdaf-9f470b4c7998"
+            }
+        }
+    },
+    {
+        "Edge": [
+            {
+                "Generic": "15867192-86b7-40a8-9936-83d9e998516e"
+            },
+            "349738da-9747-4d5c-b508-2a810317166f",
+            "915c5162-93bc-49c0-bdaf-9f470b4c7998"
+        ]
+    }
+]

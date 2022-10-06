@@ -1,0 +1,69 @@
+name;id
+Aluminium;7d737936-1f16-4f92-93a0-11ae25dcd001
+Asfalt;f776fb17-cfa6-4937-b493-3c7037c160bb
+Beslag;3181ef21-944d-40e9-8738-6a37b805cd57
+Bindemiddel;b90e2ac5-4466-4d5a-8130-5258da9cb4d7
+Bitumenmaling;6a71e0eb-9c22-4ab9-9d4c-cc4b5904fe98
+Bly;ab26e538-394e-4796-8dd0-4971c76b7185
+Bomuld;4af703ca-a191-4303-9168-d9507ca8a297
+Brandbeskyttelse;d6c8d1f9-b195-4bc2-8182-5f609439f921
+Celleglas;decae4d0-0a51-4aba-b8d4-9a474a078c53
+Cellulosefibre;e0cda6fb-0dad-4fd4-8d73-3c0a31b3b8a8
+Døre og porte;3407b583-f547-4bb7-9b19-9d2cd33c23dc
+Ekspanderet kork;597ca6b5-0584-40b2-a938-8ab75d56fd31
+Ekspanderet perlite;c6e36f72-1324-4f8b-9ba6-679a1ba3aed7
+Ekspanderet polystyren (EPS);2766246b-da9c-4a24-9b1f-2f5ddbbe8d13
+Ekstruderet polystyren (XPS);7f8688f0-f303-47d2-9396-79288b9e2d17
+El-installationer;00a6e0d1-c13f-49d5-b51c-fd559cb22505
+Elastiske plastprofiler;691a52de-4873-4fd9-8933-a5eed0c7b389
+Energikilde - inkl. produktion;c1541798-21aa-45e7-95ea-f5557982b2a3
+Facadeisolering med pudset overflade;12c1f58c-4176-4a14-b4ca-3b1821671523
+Facademalinger;9ee82447-0846-4d90-bf83-20df1bcdf46e
+Folier og fiberdug;75e81dbd-83e9-4528-84ed-4af54f61e624
+Fyldninger;fce95d64-a494-42eb-a874-b72329e145e3
+Fåreuld;d98a9bde-2a51-4015-921e-b4d96b2ae43b
+Generisk;252d9933-0f27-4c8f-b07b-8f37428bdf1a
+Grundere;131d7dea-5e6b-4708-9ca5-f55301de606d
+Gulvbehandlinger;c75ff32a-1389-47e6-a6c4-0b2a5b88f8fa
+Gulvbelægninger ;c19c04ea-07d8-4bac-984d-2ef3f6e514c6
+Hampefibre;56ef0818-c40f-443e-946e-ac113b1b676c
+Hærdeplast;33634454-7cd5-4981-877a-c08728b53302
+Hørfibre;e5f199b4-9ea5-4c8b-a114-2f909612a486
+Indvendige behandlinger;3cb5c83d-beca-4fac-8c99-dc19a2c48761
+Isoleringselementer;eaedaf03-6a12-449a-b4ec-b5298fca9045
+Kalciumsilikat / kalciumsilikathydrat;3eb1886c-26dc-41c3-89a8-7ddd92f5173d
+Kautsjuk;41223d72-b7bd-4d97-873a-b438210d6681
+Klimasystemer og ventilation;4a8a321c-8443-4ade-a2c5-ec0ba1cb6dfa
+Kobber;b4875b2e-7b49-49c4-b218-407c7af1b298
+Konstruktionstræ, savet og tørret (KVH-kvalitet);b04b4ce2-872d-4ef8-b9a7-6dd0be8a2660
+Lakker og glasurer;81d0a089-b10f-4ae2-9253-e383524f86bd
+Lukkemekanismer og automatik;e81a4c8d-5b27-45f2-bfc5-ee5f00c3e85d
+Melaminharpiks;ef5a23b5-5ab0-4e9f-8f0b-aac635573b8a
+Mineraluld;60f595a1-cab7-425f-a2e7-9f3cbf0b7a0c
+Mørtel og beton;bb858ea7-b575-480b-96de-f9634da9abcb
+Opvarmning;8dd05bf1-3bdf-41c5-a509-0ce3c211ee2d
+Overfladebehandling og belægning af metaller;830803d4-297a-4210-9a45-5bc9b0e4ce85
+Phenolplast, stift skum (PF);dfceb74b-22ec-4825-a427-b9ea3032886d
+Polyethylen ;c61f453c-1600-432a-8a19-26811b6086c6
+Polyurethanskum, stift (PUR);c886875a-a158-4c1e-a881-66448c86fa6b
+Profiler;dd37bc5e-e2a0-4417-9354-4062262cfade
+Rammer / Profiler;c2697063-0797-41dc-9046-956c90a0b3f9
+Rustfrit stål;71cbbb5b-7f4f-4e76-999b-238d6b7e5840
+Rør;80d787a9-a153-4bc5-8372-32890e0c8d4f
+Sanitære installationer;6da1eb1e-07ce-41bc-9f85-4041c4cb5eaf
+Stenmaterialer og elementer;ccbdad4a-806c-460e-b0f5-c7f59a6bdb77
+Strå;a519d085-4698-47cd-824e-07bfaf83e7d8
+Stål og jern;321929b7-d8d3-4063-bbc3-66610c8b3bde
+Systemkomponenter;b8fd357f-7417-4df4-ab81-1b802a27f699
+Tagmembraner;35705d66-6e63-44f6-b66c-c91885ea4209
+Tilslagsmaterialer;b6911997-548c-4b8d-ae14-4f74cab71eb2
+Transportanlæg;13adab6f-5fc7-47f2-b395-470b22c12257
+Træ;7ea377ed-6a6f-4df7-8946-c697bab2fe07
+Træfibre;303f395b-6097-4a22-940a-682a8befd237
+Trægulve;dd054e3f-0b3f-414a-88f4-238771d85bb7
+Træuldsplader;3c504c97-d932-4921-908c-5ec40f55fd4b
+Tætningskomponenter / -materialer;6fd4cf8f-779e-4e3c-8e2e-ec7acdb99f04
+Tætningsmasser;62235c04-6906-4b9f-9e81-c1836f6d30d0
+Urea-formaldehydharpiks;1cd638f8-5e72-49a0-a1df-4b44beb293ca
+Vakuumisolering;5385869c-7d4a-477f-a84f-3d8e0da9dad1
+Zink;a91f5759-301f-43c2-b188-79bd3714dac2

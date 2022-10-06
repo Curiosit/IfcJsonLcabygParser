@@ -1,0 +1,33 @@
+[
+    {
+        "Node": {
+            "FuelConsumption": {
+                "id": "5e5ccea5-5243-494b-9a49-292ada027abe"
+            }
+        }
+    },
+    {
+        "Edge": [
+            {
+                "TransportTypeUsage": {
+                    "id": "899c9a7c-b616-49ac-8937-088ac10b2537",
+                    "distance": 0.0
+                }
+            },
+            "5e5ccea5-5243-494b-9a49-292ada027abe",
+            "1adea09d-d954-4b9f-9a95-fa3cee0c4787"
+        ]
+    },
+    {
+        "Edge": [
+            {
+                "TransportTypeUsage": {
+                    "id": "59292514-bf7b-4c89-a816-fe528cb07530",
+                    "distance": 0.0
+                }
+            },
+            "5e5ccea5-5243-494b-9a49-292ada027abe",
+            "b0ca9d35-fdfe-4e29-8d65-1032bf5a220a"
+        ]
+    }
+]
