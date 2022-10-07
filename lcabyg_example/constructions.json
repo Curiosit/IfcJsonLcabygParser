@@ -8,20 +8,20 @@
                 },
                 "unit": "M2",
                 "source": "User",
-                "comment": "Testing",
+                "comment": "Testen består af en test",
                 "layer": 1,
                 "locked": true
             }
         }
     },
-    {
+	{
         "Edge": [
             {
                 "ConstructionToProduct": {
                     "id": "65cc0492-7864-4598-9254-5f929379bae6",
-                    "amount": 1500,
+                    "amount": 1,
                     "unit": "M2",
-                    "lifespan": 50,
+                    "lifespan": 100,
                     "demolition": false,
                     "enabled": true,
                     "delayed_start": 0
