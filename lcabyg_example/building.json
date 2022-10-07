@@ -4,10 +4,9 @@
             "Building": {
                 "id": "6d766aa5-50aa-4005-ab35-29f2fb82ddad",
                 "name": {
-                    "Danish": "Test eksempel",
-					"English": "Example project"
+                    "Danish": "Test eksempel"
                 },
-                "address": "Test",
+                "address": "Testvej 1, 1111 Testby",
                 "owner": "Test",
                 "description": "",
                 "building_type": "Other",
@@ -17,7 +16,7 @@
                 "storeys_above_ground": 0,
                 "storeys_below_ground": 0,
                 "storey_height": 0,
-                "initial_year": 2022,
+                "initial_year": 2015,
                 "calculation_timespan": 50,
                 "calculation_mode": "SC",
                 "lca_advisor": "Test",
