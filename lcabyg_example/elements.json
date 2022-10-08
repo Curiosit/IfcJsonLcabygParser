@@ -19,26 +19,26 @@
         "Edge": [
             {
                 "ElementToConstruction": {
-                    "id": "f89cae48-6c47-4106-ba5f-ed130bbf9f42",
-                    "amount": 123,
+                    "id": "31f8922c-b20d-4123-99bd-de2059dac1ae",
+                    "amount": 323.4979465328056,
                     "enabled": true
                 }
             },
             "02c3e303-a443-4f02-9927-e43519227ade",
-            "ad51ce8e-2896-431d-a31e-95f8f14a9d01"
+            "b0048c4f-22aa-4160-ba50-8116bd16e3de"
         ]
     },
     {
         "Edge": [
             {
                 "ElementToConstruction": {
-                    "id": "0e8d5fa2-b653-49ab-b05f-27848a2ea4c1",
-                    "amount": 234,
+                    "id": "0c4f4768-f99f-456b-9bb7-8ae0c08f5f5e",
+                    "amount": 229.43707388177322,
                     "enabled": true
                 }
             },
             "02c3e303-a443-4f02-9927-e43519227ade",
-            "e79c4c04-8d6a-49c3-8714-b68d3277fd3f"
+            "af8c91d5-2940-44ab-ba86-4cac683cb1ef"
         ]
     }
 ]
