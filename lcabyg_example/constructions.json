@@ -2,15 +2,9 @@
     {
         "Node": {
             "Construction": {
-                "id": [
-                    "e57925c1-b40f-4225-926b-26541bdc19f9",
-                    "1b8bc657-e406-4964-9a08-9d44318b47d6"
-                ],
+                "id": "ad51ce8e-2896-431d-a31e-95f8f14a9d01",
                 "name": {
-                    "Danish": [
-                        "test_1",
-                        "test_2"
-                    ],
+                    "Danish": "test_1",
                     "English": "Test construction"
                 },
                 "unit": "M2",
@@ -25,7 +19,7 @@
         "Edge": [
             {
                 "ConstructionToProduct": {
-                    "id": "a5a3ec16-3e90-408b-a85b-1496e85040e1",
+                    "id": "e5b76a57-d513-44f7-9320-297efc0ec6cc",
                     "amount": 1,
                     "unit": "M2",
                     "lifespan": 50,
@@ -34,10 +28,40 @@
                     "delayed_start": 0
                 }
             },
-            [
-                "e57925c1-b40f-4225-926b-26541bdc19f9",
-                "1b8bc657-e406-4964-9a08-9d44318b47d6"
-            ],
+            "ad51ce8e-2896-431d-a31e-95f8f14a9d01",
+            "51bcec85-9105-4946-8a8a-51219bf9adfa"
+        ]
+    },
+    {
+        "Node": {
+            "Construction": {
+                "id": "e79c4c04-8d6a-49c3-8714-b68d3277fd3f",
+                "name": {
+                    "Danish": "test_2",
+                    "English": "Test construction"
+                },
+                "unit": "M2",
+                "source": "User",
+                "comment": "Testing",
+                "layer": 1,
+                "locked": true
+            }
+        }
+    },
+    {
+        "Edge": [
+            {
+                "ConstructionToProduct": {
+                    "id": "d5da0b3d-1815-4c20-9fc8-2414e1b2bfe5",
+                    "amount": 1,
+                    "unit": "M2",
+                    "lifespan": 50,
+                    "demolition": false,
+                    "enabled": true,
+                    "delayed_start": 0
+                }
+            },
+            "e79c4c04-8d6a-49c3-8714-b68d3277fd3f",
             "51bcec85-9105-4946-8a8a-51219bf9adfa"
         ]
     }
