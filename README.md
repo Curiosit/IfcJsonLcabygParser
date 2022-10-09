@@ -14,7 +14,9 @@ Optionally the parsing worked best with also selecting 'split walls, columns duc
 
 # MVP
 This is a minimum viable product, and thus has a very limited functionality, further additions to come...
+Current version is able to export LCAByg Cosntructions ('Kosntruktioner') with their quantity takeoff.
 
 # What is LCAByg
 LCAByg is a danish LCA (cabron footprint) assessment program developed by by BUILD (former Danish building research institute), Aalborg University with financial support from various actors in Denmark.
+
 
