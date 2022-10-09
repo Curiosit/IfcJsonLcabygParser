@@ -1,5 +1,5 @@
-# Ifcparser
-IFC Parser is a Python script for automatical creating material takeoff from a properly exported IFC2X3 file, and converting that to JSON file format, to finally import into danish LCAByg program for calculating Carbon Footprint of buildings.
+# IfcJsonLcabygParser
+IfcJsonLcabygParser is a Python script for automatical creating material takeoff from a properly exported IFC2X3 file, and converting that to JSON file format, to finally import into danish LCAByg program for calculating Carbon Footprint of buildings.
 
 # Requirements
 IfcOpenShell (https://github.com/IfcOpenShell/IfcOpenShell)
@@ -14,8 +14,11 @@ notebook.yml shows my current configuration of the python environment.
 ifcHelper.py
 lcabygjson.py
 
+
 # Running IfcJsonLcabygParser
 ifc_to_lcabygjson.ipynb is a Jupyter notebook that imports an IFC file, reads the data of main building components (walls, slabs, roofs, etc.), saves them to a dataframe, and then generates a set of JSON files in a format readable by LCAByg 5.2 program.
+
+![ifcexport](https://user-images.githubusercontent.com/17218693/194769242-5da42ba1-b231-4419-93b4-5e234920e6af.JPG)
 
 # Preparing IFC file
 The file needs to be exported from a BIM program (ie. Revit) with modified IFC2X3 Coordination View 2.0 settings.
