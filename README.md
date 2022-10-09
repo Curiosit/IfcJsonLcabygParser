@@ -23,7 +23,7 @@ ifc_to_lcabygjson.ipynb is a Jupyter notebook that imports an IFC file, reads th
 # Preparing IFC file
 The file needs to be exported from a BIM program (ie. Revit) with modified IFC2X3 Coordination View 2.0 settings.
 It is important to select 'base quantities'
-Optionally the parsing worked best with also selecting 'split walls, columns ducts by level', and 'Export Revit property sets' and 'Export IFC common property sets'.
+Optionally the parsing worked best with also selecting 'Export Revit property sets' and 'Export IFC common property sets'.
 
 # MVP
 This is a minimum viable product, and thus has a very limited functionality, further additions to come...
