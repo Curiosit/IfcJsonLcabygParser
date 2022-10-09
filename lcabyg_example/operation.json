@@ -3,8 +3,8 @@
         "Node": {
             "Operation": {
                 "id": "0338d31e-3876-440d-a88c-2daa2dd81942",
-                "electricity_usage": 17.3,
-                "heat_usage": 0,
+                "electricity_usage": 10,
+                "heat_usage": 15,
                 "electricity_production": 0
             }
         }
