@@ -1,6 +1,5 @@
 #Attributes without Pset-Name, like {"Lenght":2.03}
-## This set of functions comes from the package: https://github.com/johannesmichael/ifc-python/blob/master/modules/ifc_pset_utils.py
-
+# Source of this file: https://github.com/johannesmichael/ifc-python/blob/master/modules/ifc_pset_utils.py
 
 """
 Module with function to retrieve pset information of an IFC file with
