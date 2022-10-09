@@ -1,7 +1,10 @@
 #!/usr/bin/env python
 # coding: utf-8
-
-
+# Sources
+# https://thinkmoult.com/using-ifcopenshell-parse-ifc-files-python.html
+# https://github.com/johannesmichael/ifc-python/blob/master/modules/ifc_pset_utils.py
+# https://www.kaggle.com/code/ponybiam/introduction-to-ifcopenshell-functions/notebook
+# https://blenderbim.org/docs-python/ifcopenshell-python/hello_world.html
 
 
 import json
