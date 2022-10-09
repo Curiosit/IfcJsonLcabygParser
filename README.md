@@ -30,9 +30,16 @@ This is a minimum viable product, and thus has a very limited functionality, fur
 Current version is able to export LCAByg Constructions ('Konstruktioner') with their quantity takeoff.
 
 # What is LCAByg
-LCAByg is a danish LCA (cabron footprint) assessment program developed by by BUILD (former Danish building research institute), Aalborg University with financial support from various actors in Denmark.
+LCAByg is a danish LCA (carbon footprint) assessment program developed by by BUILD (former Danish building research institute), Aalborg University with financial support from various actors in Denmark.
 
 # Importing the files to LCAByg
 The import follows the method from the JSON guide by LCAByg (lcabyg5_json_guide). The script creates 4 JSON files: elements.json constructions.json element_category_edges.json and constructions_extra.json that are needed to be replaced from the default import_example.
+
+# Important sources:
+https://github.com/johannesmichael/ifc-python/blob/master/modules/ifc_pset_utils.py
+https://thinkmoult.com/using-ifcopenshell-parse-ifc-files-python.html
+https://github.com/johannesmichael/ifc-python/blob/master/modules/ifc_pset_utils.py
+https://www.kaggle.com/code/ponybiam/introduction-to-ifcopenshell-functions/notebook
+https://blenderbim.org/docs-python/ifcopenshell-python/hello_world.html
 
 
