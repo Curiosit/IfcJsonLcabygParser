@@ -29,4 +29,7 @@ Current version is able to export LCAByg Constructions ('Konstruktioner') with t
 # What is LCAByg
 LCAByg is a danish LCA (cabron footprint) assessment program developed by by BUILD (former Danish building research institute), Aalborg University with financial support from various actors in Denmark.
 
+# Importing the files to LCAByg
+The import follows the method from the JSON guide by LCAByg (lcabyg5_json_guide). The script creates 4 JSON files: elements.json constructions.json element_category_edges.json and constructions_extra.json that are needed to be replaced from the default import_example.
+
 
