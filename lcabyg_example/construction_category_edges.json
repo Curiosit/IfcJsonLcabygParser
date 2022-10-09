@@ -3,12 +3,48 @@
         "Edge": [
             {
                 "CategoryToElement": {
-                    "id": "bc307a78-fe11-420f-96ff-38f992148172",
+                    "id": "7506914e-88f9-443b-b742-335c60b39f24",
                     "enabled": true
                 }
             },
             "069983d0-d08b-405b-b816-d28ca9648956",
             "02c3e303-a443-4f02-9927-e43519227ade"
+        ]
+    },
+    {
+        "Edge": [
+            {
+                "CategoryToElement": {
+                    "id": "7c83461f-5732-48ee-942e-69211f32ab3d",
+                    "enabled": true
+                }
+            },
+            "069983d0-d08b-405b-b816-d28ca9648956",
+            "475b39d5-29a4-4192-8269-715cd804da00"
+        ]
+    },
+    {
+        "Edge": [
+            {
+                "CategoryToElement": {
+                    "id": "6f84a2f5-7546-4eb1-8938-902c9d8c4257",
+                    "enabled": true
+                }
+            },
+            "069983d0-d08b-405b-b816-d28ca9648956",
+            "5e0cb49a-bf1d-4b94-9d87-62af0c4c3a9c"
+        ]
+    },
+    {
+        "Edge": [
+            {
+                "CategoryToElement": {
+                    "id": "347c8c7c-d786-4c2d-8aff-b1a3466fd4ad",
+                    "enabled": true
+                }
+            },
+            "069983d0-d08b-405b-b816-d28ca9648956",
+            "a6ba6ff9-b582-48ed-bc26-33223536b57a"
         ]
     }
 ]
