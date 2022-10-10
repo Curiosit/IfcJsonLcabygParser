@@ -2,7 +2,7 @@
     {
         "Node": {
             "Construction": {
-                "id": "25cb7d63-2c87-49a3-9545-bedfceb897d3",
+                "id": "a7b00786-45d6-4488-81cf-8f0510357b9c",
                 "name": {
                     "Danish": "Basic Wall:W01",
                     "English": "Test construction"
@@ -19,7 +19,7 @@
         "Edge": [
             {
                 "ConstructionToProduct": {
-                    "id": "59ec5347-07ad-4a09-98a2-342d7cd8d722",
+                    "id": "a0e91d0c-06f1-41e1-8944-49c1a508799e",
                     "amount": 1,
                     "unit": "M2",
                     "lifespan": 50,
@@ -28,14 +28,14 @@
                     "delayed_start": 0
                 }
             },
-            "25cb7d63-2c87-49a3-9545-bedfceb897d3",
+            "a7b00786-45d6-4488-81cf-8f0510357b9c",
             "51bcec85-9105-4946-8a8a-51219bf9adfa"
         ]
     },
     {
         "Node": {
             "Construction": {
-                "id": "bb719577-3019-4943-9bf2-6743ab9dbbb7",
+                "id": "4fecf55e-8b78-4e9f-bd81-4d00a8079fe2",
                 "name": {
                     "Danish": "Basic Wall:Z01",
                     "English": "Test construction"
@@ -52,7 +52,7 @@
         "Edge": [
             {
                 "ConstructionToProduct": {
-                    "id": "1af9ec0a-95a6-46b0-aa6c-ad1638ecddd2",
+                    "id": "98060c63-cd07-432e-8b21-1ab75b9a17dd",
                     "amount": 1,
                     "unit": "M2",
                     "lifespan": 50,
@@ -61,14 +61,14 @@
                     "delayed_start": 0
                 }
             },
-            "bb719577-3019-4943-9bf2-6743ab9dbbb7",
+            "4fecf55e-8b78-4e9f-bd81-4d00a8079fe2",
             "51bcec85-9105-4946-8a8a-51219bf9adfa"
         ]
     },
     {
         "Node": {
             "Construction": {
-                "id": "260cbefb-dcd7-446b-8207-df183cbb8b9c",
+                "id": "62f403c5-5727-4b8f-9c2a-dfd04246659d",
                 "name": {
                     "Danish": "Basic Wall:Z02",
                     "English": "Test construction"
@@ -85,7 +85,7 @@
         "Edge": [
             {
                 "ConstructionToProduct": {
-                    "id": "6ba2ff6f-4d92-418a-907c-0e2588eba708",
+                    "id": "c7241fab-43a0-4fbb-9ddd-98f2f7e5c74e",
                     "amount": 1,
                     "unit": "M2",
                     "lifespan": 50,
@@ -94,14 +94,14 @@
                     "delayed_start": 0
                 }
             },
-            "260cbefb-dcd7-446b-8207-df183cbb8b9c",
+            "62f403c5-5727-4b8f-9c2a-dfd04246659d",
             "51bcec85-9105-4946-8a8a-51219bf9adfa"
         ]
     },
     {
         "Node": {
             "Construction": {
-                "id": "adef5bfd-23db-4d1d-972f-65ebc40c64d1",
+                "id": "5d9473d0-682e-4ecb-8f16-cfd4131b6b7c",
                 "name": {
                     "Danish": "Basic Roof:R400",
                     "English": "Test construction"
@@ -118,7 +118,7 @@
         "Edge": [
             {
                 "ConstructionToProduct": {
-                    "id": "ce1f9575-1e71-477d-88a6-3a1383efa0d8",
+                    "id": "f6d4d59b-5150-4477-9709-ce75e4cde92a",
                     "amount": 1,
                     "unit": "M2",
                     "lifespan": 50,
@@ -127,14 +127,14 @@
                     "delayed_start": 0
                 }
             },
-            "adef5bfd-23db-4d1d-972f-65ebc40c64d1",
+            "5d9473d0-682e-4ecb-8f16-cfd4131b6b7c",
             "51bcec85-9105-4946-8a8a-51219bf9adfa"
         ]
     },
     {
         "Node": {
             "Construction": {
-                "id": "2db1cb99-c582-4cc7-a440-a913069894ed",
+                "id": "f505dd74-09cc-45de-b7b8-d47ed09dfe05",
                 "name": {
                     "Danish": "Floor:S250",
                     "English": "Test construction"
@@ -151,7 +151,7 @@
         "Edge": [
             {
                 "ConstructionToProduct": {
-                    "id": "45498842-da31-4c75-9892-94560d6941e5",
+                    "id": "12121415-ca5d-488c-91a9-38f43532d19a",
                     "amount": 1,
                     "unit": "M2",
                     "lifespan": 50,
@@ -160,14 +160,14 @@
                     "delayed_start": 0
                 }
             },
-            "2db1cb99-c582-4cc7-a440-a913069894ed",
+            "f505dd74-09cc-45de-b7b8-d47ed09dfe05",
             "51bcec85-9105-4946-8a8a-51219bf9adfa"
         ]
     },
     {
         "Node": {
             "Construction": {
-                "id": "579ebc38-1f21-4c5c-8440-3b86c4b1bbdb",
+                "id": "28b804b6-f876-4b80-ab20-1d74f9bfd964",
                 "name": {
                     "Danish": "Floor:eS100",
                     "English": "Test construction"
@@ -184,7 +184,7 @@
         "Edge": [
             {
                 "ConstructionToProduct": {
-                    "id": "4befc326-23e4-46e7-8347-89f0ad0e3130",
+                    "id": "5ef66ae1-fe47-465f-9bab-bc6260ec113c",
                     "amount": 1,
                     "unit": "M2",
                     "lifespan": 50,
@@ -193,14 +193,14 @@
                     "delayed_start": 0
                 }
             },
-            "579ebc38-1f21-4c5c-8440-3b86c4b1bbdb",
+            "28b804b6-f876-4b80-ab20-1d74f9bfd964",
             "51bcec85-9105-4946-8a8a-51219bf9adfa"
         ]
     },
     {
         "Node": {
             "Construction": {
-                "id": "0f5c80a2-2275-4a70-a8b3-68f02f24cbd0",
+                "id": "344031aa-e6fa-44fb-a06d-bcfa8dd242b0",
                 "name": {
                     "Danish": "Window-T1:O01",
                     "English": "Test construction"
@@ -217,7 +217,7 @@
         "Edge": [
             {
                 "ConstructionToProduct": {
-                    "id": "3b19ec8c-dc45-44ce-817b-7edee82bbe69",
+                    "id": "e0b2b056-17a0-4252-842a-dc6bf82848bd",
                     "amount": 1,
                     "unit": "M2",
                     "lifespan": 50,
@@ -226,14 +226,14 @@
                     "delayed_start": 0
                 }
             },
-            "0f5c80a2-2275-4a70-a8b3-68f02f24cbd0",
+            "344031aa-e6fa-44fb-a06d-bcfa8dd242b0",
             "51bcec85-9105-4946-8a8a-51219bf9adfa"
         ]
     },
     {
         "Node": {
             "Construction": {
-                "id": "e04b4ed0-fe61-4573-8360-dc6f3435ff0c",
+                "id": "e24592fe-5a59-47b7-9f92-0fb7ccb85f4c",
                 "name": {
                     "Danish": "Window-T1:O02",
                     "English": "Test construction"
@@ -250,7 +250,7 @@
         "Edge": [
             {
                 "ConstructionToProduct": {
-                    "id": "4e8508be-9916-4b58-a997-db87dd440634",
+                    "id": "29b3c299-a594-49bf-a94d-c8f18616b09c",
                     "amount": 1,
                     "unit": "M2",
                     "lifespan": 50,
@@ -259,14 +259,14 @@
                     "delayed_start": 0
                 }
             },
-            "e04b4ed0-fe61-4573-8360-dc6f3435ff0c",
+            "e24592fe-5a59-47b7-9f92-0fb7ccb85f4c",
             "51bcec85-9105-4946-8a8a-51219bf9adfa"
         ]
     },
     {
         "Node": {
             "Construction": {
-                "id": "5c810af1-c6c6-4d47-970f-417e2a6b97cf",
+                "id": "41a90a14-dac5-44a6-8bd6-41cbe9fb3298",
                 "name": {
                     "Danish": "Window-T1:O03",
                     "English": "Test construction"
@@ -283,7 +283,7 @@
         "Edge": [
             {
                 "ConstructionToProduct": {
-                    "id": "85f2d33d-de30-48a2-9f61-60bd229c04af",
+                    "id": "affb6423-5b28-4b04-8b81-cb8e729be072",
                     "amount": 1,
                     "unit": "M2",
                     "lifespan": 50,
@@ -292,14 +292,14 @@
                     "delayed_start": 0
                 }
             },
-            "5c810af1-c6c6-4d47-970f-417e2a6b97cf",
+            "41a90a14-dac5-44a6-8bd6-41cbe9fb3298",
             "51bcec85-9105-4946-8a8a-51219bf9adfa"
         ]
     },
     {
         "Node": {
             "Construction": {
-                "id": "67671663-bf52-4c15-aa0b-76103828638e",
+                "id": "0826225d-d21a-4860-9e76-3c111b65626c",
                 "name": {
                     "Danish": "Railing:1100mm",
                     "English": "Test construction"
@@ -316,7 +316,7 @@
         "Edge": [
             {
                 "ConstructionToProduct": {
-                    "id": "164cdff8-68cd-4244-8b40-f83831d252a3",
+                    "id": "77a48ca7-87cc-45a0-88fd-3edcb9a240d6",
                     "amount": 1,
                     "unit": "M",
                     "lifespan": 50,
@@ -325,14 +325,14 @@
                     "delayed_start": 0
                 }
             },
-            "67671663-bf52-4c15-aa0b-76103828638e",
+            "0826225d-d21a-4860-9e76-3c111b65626c",
             "51bcec85-9105-4946-8a8a-51219bf9adfa"
         ]
     },
     {
         "Node": {
             "Construction": {
-                "id": "cdc29899-ce2d-444a-939b-888b4b5aba07",
+                "id": "aeb9cd6d-977e-4677-a1d0-dd92e59266e5",
                 "name": {
                     "Danish": "Railing:Glass_panel",
                     "English": "Test construction"
@@ -349,7 +349,7 @@
         "Edge": [
             {
                 "ConstructionToProduct": {
-                    "id": "0cefaecb-2fae-4271-87ec-00df418d67c0",
+                    "id": "5378f327-4018-47c9-9d58-0a2182178c4c",
                     "amount": 1,
                     "unit": "M",
                     "lifespan": 50,
@@ -358,377 +358,14 @@
                     "delayed_start": 0
                 }
             },
-            "cdc29899-ce2d-444a-939b-888b4b5aba07",
+            "aeb9cd6d-977e-4677-a1d0-dd92e59266e5",
             "51bcec85-9105-4946-8a8a-51219bf9adfa"
         ]
     },
     {
         "Node": {
             "Construction": {
-                "id": "25cb7d63-2c87-49a3-9545-bedfceb897d3",
-                "name": {
-                    "Danish": "Basic Wall:W01",
-                    "English": "Test construction"
-                },
-                "unit": "M2",
-                "source": "User",
-                "comment": "Created by IfcJsonLcabygParser. https://github.com/Curiosit/IfcJsonLcabygParser",
-                "layer": 1,
-                "locked": true
-            }
-        }
-    },
-    {
-        "Edge": [
-            {
-                "ConstructionToProduct": {
-                    "id": "59ec5347-07ad-4a09-98a2-342d7cd8d722",
-                    "amount": 1,
-                    "unit": "M2",
-                    "lifespan": 50,
-                    "demolition": false,
-                    "enabled": true,
-                    "delayed_start": 0
-                }
-            },
-            "25cb7d63-2c87-49a3-9545-bedfceb897d3",
-            "51bcec85-9105-4946-8a8a-51219bf9adfa"
-        ]
-    },
-    {
-        "Node": {
-            "Construction": {
-                "id": "bb719577-3019-4943-9bf2-6743ab9dbbb7",
-                "name": {
-                    "Danish": "Basic Wall:Z01",
-                    "English": "Test construction"
-                },
-                "unit": "M2",
-                "source": "User",
-                "comment": "Created by IfcJsonLcabygParser. https://github.com/Curiosit/IfcJsonLcabygParser",
-                "layer": 1,
-                "locked": true
-            }
-        }
-    },
-    {
-        "Edge": [
-            {
-                "ConstructionToProduct": {
-                    "id": "1af9ec0a-95a6-46b0-aa6c-ad1638ecddd2",
-                    "amount": 1,
-                    "unit": "M2",
-                    "lifespan": 50,
-                    "demolition": false,
-                    "enabled": true,
-                    "delayed_start": 0
-                }
-            },
-            "bb719577-3019-4943-9bf2-6743ab9dbbb7",
-            "51bcec85-9105-4946-8a8a-51219bf9adfa"
-        ]
-    },
-    {
-        "Node": {
-            "Construction": {
-                "id": "260cbefb-dcd7-446b-8207-df183cbb8b9c",
-                "name": {
-                    "Danish": "Basic Wall:Z02",
-                    "English": "Test construction"
-                },
-                "unit": "M2",
-                "source": "User",
-                "comment": "Created by IfcJsonLcabygParser. https://github.com/Curiosit/IfcJsonLcabygParser",
-                "layer": 1,
-                "locked": true
-            }
-        }
-    },
-    {
-        "Edge": [
-            {
-                "ConstructionToProduct": {
-                    "id": "6ba2ff6f-4d92-418a-907c-0e2588eba708",
-                    "amount": 1,
-                    "unit": "M2",
-                    "lifespan": 50,
-                    "demolition": false,
-                    "enabled": true,
-                    "delayed_start": 0
-                }
-            },
-            "260cbefb-dcd7-446b-8207-df183cbb8b9c",
-            "51bcec85-9105-4946-8a8a-51219bf9adfa"
-        ]
-    },
-    {
-        "Node": {
-            "Construction": {
-                "id": "adef5bfd-23db-4d1d-972f-65ebc40c64d1",
-                "name": {
-                    "Danish": "Basic Roof:R400",
-                    "English": "Test construction"
-                },
-                "unit": "M2",
-                "source": "User",
-                "comment": "Created by IfcJsonLcabygParser. https://github.com/Curiosit/IfcJsonLcabygParser",
-                "layer": 1,
-                "locked": true
-            }
-        }
-    },
-    {
-        "Edge": [
-            {
-                "ConstructionToProduct": {
-                    "id": "ce1f9575-1e71-477d-88a6-3a1383efa0d8",
-                    "amount": 1,
-                    "unit": "M2",
-                    "lifespan": 50,
-                    "demolition": false,
-                    "enabled": true,
-                    "delayed_start": 0
-                }
-            },
-            "adef5bfd-23db-4d1d-972f-65ebc40c64d1",
-            "51bcec85-9105-4946-8a8a-51219bf9adfa"
-        ]
-    },
-    {
-        "Node": {
-            "Construction": {
-                "id": "2db1cb99-c582-4cc7-a440-a913069894ed",
-                "name": {
-                    "Danish": "Floor:S250",
-                    "English": "Test construction"
-                },
-                "unit": "M2",
-                "source": "User",
-                "comment": "Created by IfcJsonLcabygParser. https://github.com/Curiosit/IfcJsonLcabygParser",
-                "layer": 1,
-                "locked": true
-            }
-        }
-    },
-    {
-        "Edge": [
-            {
-                "ConstructionToProduct": {
-                    "id": "45498842-da31-4c75-9892-94560d6941e5",
-                    "amount": 1,
-                    "unit": "M2",
-                    "lifespan": 50,
-                    "demolition": false,
-                    "enabled": true,
-                    "delayed_start": 0
-                }
-            },
-            "2db1cb99-c582-4cc7-a440-a913069894ed",
-            "51bcec85-9105-4946-8a8a-51219bf9adfa"
-        ]
-    },
-    {
-        "Node": {
-            "Construction": {
-                "id": "579ebc38-1f21-4c5c-8440-3b86c4b1bbdb",
-                "name": {
-                    "Danish": "Floor:eS100",
-                    "English": "Test construction"
-                },
-                "unit": "M2",
-                "source": "User",
-                "comment": "Created by IfcJsonLcabygParser. https://github.com/Curiosit/IfcJsonLcabygParser",
-                "layer": 1,
-                "locked": true
-            }
-        }
-    },
-    {
-        "Edge": [
-            {
-                "ConstructionToProduct": {
-                    "id": "4befc326-23e4-46e7-8347-89f0ad0e3130",
-                    "amount": 1,
-                    "unit": "M2",
-                    "lifespan": 50,
-                    "demolition": false,
-                    "enabled": true,
-                    "delayed_start": 0
-                }
-            },
-            "579ebc38-1f21-4c5c-8440-3b86c4b1bbdb",
-            "51bcec85-9105-4946-8a8a-51219bf9adfa"
-        ]
-    },
-    {
-        "Node": {
-            "Construction": {
-                "id": "0f5c80a2-2275-4a70-a8b3-68f02f24cbd0",
-                "name": {
-                    "Danish": "Window-T1:O01",
-                    "English": "Test construction"
-                },
-                "unit": "M2",
-                "source": "User",
-                "comment": "Created by IfcJsonLcabygParser. https://github.com/Curiosit/IfcJsonLcabygParser",
-                "layer": 1,
-                "locked": true
-            }
-        }
-    },
-    {
-        "Edge": [
-            {
-                "ConstructionToProduct": {
-                    "id": "3b19ec8c-dc45-44ce-817b-7edee82bbe69",
-                    "amount": 1,
-                    "unit": "M2",
-                    "lifespan": 50,
-                    "demolition": false,
-                    "enabled": true,
-                    "delayed_start": 0
-                }
-            },
-            "0f5c80a2-2275-4a70-a8b3-68f02f24cbd0",
-            "51bcec85-9105-4946-8a8a-51219bf9adfa"
-        ]
-    },
-    {
-        "Node": {
-            "Construction": {
-                "id": "e04b4ed0-fe61-4573-8360-dc6f3435ff0c",
-                "name": {
-                    "Danish": "Window-T1:O02",
-                    "English": "Test construction"
-                },
-                "unit": "M2",
-                "source": "User",
-                "comment": "Created by IfcJsonLcabygParser. https://github.com/Curiosit/IfcJsonLcabygParser",
-                "layer": 1,
-                "locked": true
-            }
-        }
-    },
-    {
-        "Edge": [
-            {
-                "ConstructionToProduct": {
-                    "id": "4e8508be-9916-4b58-a997-db87dd440634",
-                    "amount": 1,
-                    "unit": "M2",
-                    "lifespan": 50,
-                    "demolition": false,
-                    "enabled": true,
-                    "delayed_start": 0
-                }
-            },
-            "e04b4ed0-fe61-4573-8360-dc6f3435ff0c",
-            "51bcec85-9105-4946-8a8a-51219bf9adfa"
-        ]
-    },
-    {
-        "Node": {
-            "Construction": {
-                "id": "5c810af1-c6c6-4d47-970f-417e2a6b97cf",
-                "name": {
-                    "Danish": "Window-T1:O03",
-                    "English": "Test construction"
-                },
-                "unit": "M2",
-                "source": "User",
-                "comment": "Created by IfcJsonLcabygParser. https://github.com/Curiosit/IfcJsonLcabygParser",
-                "layer": 1,
-                "locked": true
-            }
-        }
-    },
-    {
-        "Edge": [
-            {
-                "ConstructionToProduct": {
-                    "id": "85f2d33d-de30-48a2-9f61-60bd229c04af",
-                    "amount": 1,
-                    "unit": "M2",
-                    "lifespan": 50,
-                    "demolition": false,
-                    "enabled": true,
-                    "delayed_start": 0
-                }
-            },
-            "5c810af1-c6c6-4d47-970f-417e2a6b97cf",
-            "51bcec85-9105-4946-8a8a-51219bf9adfa"
-        ]
-    },
-    {
-        "Node": {
-            "Construction": {
-                "id": "67671663-bf52-4c15-aa0b-76103828638e",
-                "name": {
-                    "Danish": "Railing:1100mm",
-                    "English": "Test construction"
-                },
-                "unit": "M",
-                "source": "User",
-                "comment": "Created by IfcJsonLcabygParser. https://github.com/Curiosit/IfcJsonLcabygParser",
-                "layer": 1,
-                "locked": true
-            }
-        }
-    },
-    {
-        "Edge": [
-            {
-                "ConstructionToProduct": {
-                    "id": "164cdff8-68cd-4244-8b40-f83831d252a3",
-                    "amount": 1,
-                    "unit": "M",
-                    "lifespan": 50,
-                    "demolition": false,
-                    "enabled": true,
-                    "delayed_start": 0
-                }
-            },
-            "67671663-bf52-4c15-aa0b-76103828638e",
-            "51bcec85-9105-4946-8a8a-51219bf9adfa"
-        ]
-    },
-    {
-        "Node": {
-            "Construction": {
-                "id": "cdc29899-ce2d-444a-939b-888b4b5aba07",
-                "name": {
-                    "Danish": "Railing:Glass_panel",
-                    "English": "Test construction"
-                },
-                "unit": "M",
-                "source": "User",
-                "comment": "Created by IfcJsonLcabygParser. https://github.com/Curiosit/IfcJsonLcabygParser",
-                "layer": 1,
-                "locked": true
-            }
-        }
-    },
-    {
-        "Edge": [
-            {
-                "ConstructionToProduct": {
-                    "id": "0cefaecb-2fae-4271-87ec-00df418d67c0",
-                    "amount": 1,
-                    "unit": "M",
-                    "lifespan": 50,
-                    "demolition": false,
-                    "enabled": true,
-                    "delayed_start": 0
-                }
-            },
-            "cdc29899-ce2d-444a-939b-888b4b5aba07",
-            "51bcec85-9105-4946-8a8a-51219bf9adfa"
-        ]
-    },
-    {
-        "Node": {
-            "Construction": {
-                "id": "84ee303f-5c0b-4432-84c4-d1e4196a8ad0",
+                "id": "3587d80c-0060-4c4e-849c-b2062e5bece1",
                 "name": {
                     "Danish": "System Panel:Glazed",
                     "English": "Test construction"
@@ -745,7 +382,7 @@
         "Edge": [
             {
                 "ConstructionToProduct": {
-                    "id": "a9e8a40b-26f8-4977-a7cb-105318193f63",
+                    "id": "4f80243f-1135-4b2e-a280-2bf1fd69246a",
                     "amount": 1,
                     "unit": "M2",
                     "lifespan": 50,
@@ -754,14 +391,14 @@
                     "delayed_start": 0
                 }
             },
-            "84ee303f-5c0b-4432-84c4-d1e4196a8ad0",
+            "3587d80c-0060-4c4e-849c-b2062e5bece1",
             "51bcec85-9105-4946-8a8a-51219bf9adfa"
         ]
     },
     {
         "Node": {
             "Construction": {
-                "id": "0e2bcb7d-01ac-412d-a243-adb088c907e9",
+                "id": "9076f874-dcd4-4873-b959-6c746f7653fd",
                 "name": {
                     "Danish": "System Panel:Solid",
                     "English": "Test construction"
@@ -778,7 +415,7 @@
         "Edge": [
             {
                 "ConstructionToProduct": {
-                    "id": "d43f4e7f-4fdf-4bf4-832c-1a7f108d1e82",
+                    "id": "16d109c0-96da-4c1a-8a1a-7c14fa410a4f",
                     "amount": 1,
                     "unit": "M2",
                     "lifespan": 50,
@@ -787,14 +424,14 @@
                     "delayed_start": 0
                 }
             },
-            "0e2bcb7d-01ac-412d-a243-adb088c907e9",
+            "9076f874-dcd4-4873-b959-6c746f7653fd",
             "51bcec85-9105-4946-8a8a-51219bf9adfa"
         ]
     },
     {
         "Node": {
             "Construction": {
-                "id": "193c2de2-3a51-47fa-9432-2e9ad66b969e",
+                "id": "9d5d9c79-0274-4231-a1a5-98b8e6cf1342",
                 "name": {
                     "Danish": "Rectangular Mullion:50mm x 150mm",
                     "English": "Test construction"
@@ -811,7 +448,7 @@
         "Edge": [
             {
                 "ConstructionToProduct": {
-                    "id": "cffecb45-6ab0-46af-9c30-394981e0136d",
+                    "id": "f56bc61c-acb9-4b68-9337-a1b8aafcdcb0",
                     "amount": 1,
                     "unit": "M",
                     "lifespan": 50,
@@ -820,7 +457,7 @@
                     "delayed_start": 0
                 }
             },
-            "193c2de2-3a51-47fa-9432-2e9ad66b969e",
+            "9d5d9c79-0274-4231-a1a5-98b8e6cf1342",
             "51bcec85-9105-4946-8a8a-51219bf9adfa"
         ]
     }

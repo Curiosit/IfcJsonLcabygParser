@@ -84,9 +84,12 @@ def append_lcabyg_element(lcabyg_elements, construction_amount, construction_nam
     
     ####
     json_array_elements.append(element_node) #0 elements.json
+    print ('Added element:')
+    print (element_name)
     ####
-    
+    print (construction_amount)
     for n in construction_amount:
+        print (n)
         print ('Added construction:')
         print (construction_name[i])
         element_edge_id.append(str(uuid.uuid4()))
