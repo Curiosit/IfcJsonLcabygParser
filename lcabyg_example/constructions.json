@@ -2,7 +2,7 @@
     {
         "Node": {
             "Construction": {
-                "id": "a7b00786-45d6-4488-81cf-8f0510357b9c",
+                "id": "f647ebd5-738c-425e-8149-29d9ead3e229",
                 "name": {
                     "Danish": "Basic Wall:W01",
                     "English": "Test construction"
@@ -19,7 +19,7 @@
         "Edge": [
             {
                 "ConstructionToProduct": {
-                    "id": "a0e91d0c-06f1-41e1-8944-49c1a508799e",
+                    "id": "aa8bf525-8c05-43a0-876a-7a82fe0d7b98",
                     "amount": 1,
                     "unit": "M2",
                     "lifespan": 50,
@@ -28,14 +28,14 @@
                     "delayed_start": 0
                 }
             },
-            "a7b00786-45d6-4488-81cf-8f0510357b9c",
+            "f647ebd5-738c-425e-8149-29d9ead3e229",
             "51bcec85-9105-4946-8a8a-51219bf9adfa"
         ]
     },
     {
         "Node": {
             "Construction": {
-                "id": "4fecf55e-8b78-4e9f-bd81-4d00a8079fe2",
+                "id": "de7aac74-a5f8-4ea2-bfbc-7e483aec61c2",
                 "name": {
                     "Danish": "Basic Wall:Z01",
                     "English": "Test construction"
@@ -52,7 +52,7 @@
         "Edge": [
             {
                 "ConstructionToProduct": {
-                    "id": "98060c63-cd07-432e-8b21-1ab75b9a17dd",
+                    "id": "bc172d17-ed70-4ec8-803f-0f1e4741dc86",
                     "amount": 1,
                     "unit": "M2",
                     "lifespan": 50,
@@ -61,14 +61,14 @@
                     "delayed_start": 0
                 }
             },
-            "4fecf55e-8b78-4e9f-bd81-4d00a8079fe2",
+            "de7aac74-a5f8-4ea2-bfbc-7e483aec61c2",
             "51bcec85-9105-4946-8a8a-51219bf9adfa"
         ]
     },
     {
         "Node": {
             "Construction": {
-                "id": "62f403c5-5727-4b8f-9c2a-dfd04246659d",
+                "id": "61297815-8d09-4b5e-9a14-e744c34d7b04",
                 "name": {
                     "Danish": "Basic Wall:Z02",
                     "English": "Test construction"
@@ -85,7 +85,7 @@
         "Edge": [
             {
                 "ConstructionToProduct": {
-                    "id": "c7241fab-43a0-4fbb-9ddd-98f2f7e5c74e",
+                    "id": "d7ee1b1b-8b41-42da-9c83-e5ee31ca9a27",
                     "amount": 1,
                     "unit": "M2",
                     "lifespan": 50,
@@ -94,14 +94,14 @@
                     "delayed_start": 0
                 }
             },
-            "62f403c5-5727-4b8f-9c2a-dfd04246659d",
+            "61297815-8d09-4b5e-9a14-e744c34d7b04",
             "51bcec85-9105-4946-8a8a-51219bf9adfa"
         ]
     },
     {
         "Node": {
             "Construction": {
-                "id": "5d9473d0-682e-4ecb-8f16-cfd4131b6b7c",
+                "id": "8f3752d6-2e72-4805-8d23-12a82e4e6fce",
                 "name": {
                     "Danish": "Basic Roof:R400",
                     "English": "Test construction"
@@ -118,7 +118,7 @@
         "Edge": [
             {
                 "ConstructionToProduct": {
-                    "id": "f6d4d59b-5150-4477-9709-ce75e4cde92a",
+                    "id": "112359f7-7418-42e8-b228-b7c4452121c6",
                     "amount": 1,
                     "unit": "M2",
                     "lifespan": 50,
@@ -127,14 +127,14 @@
                     "delayed_start": 0
                 }
             },
-            "5d9473d0-682e-4ecb-8f16-cfd4131b6b7c",
+            "8f3752d6-2e72-4805-8d23-12a82e4e6fce",
             "51bcec85-9105-4946-8a8a-51219bf9adfa"
         ]
     },
     {
         "Node": {
             "Construction": {
-                "id": "f505dd74-09cc-45de-b7b8-d47ed09dfe05",
+                "id": "d84b79d6-44c0-4ade-a662-cc44ce677b97",
                 "name": {
                     "Danish": "Floor:S250",
                     "English": "Test construction"
@@ -151,7 +151,7 @@
         "Edge": [
             {
                 "ConstructionToProduct": {
-                    "id": "12121415-ca5d-488c-91a9-38f43532d19a",
+                    "id": "677106b9-8bb5-488b-a6e7-f10a4aa76437",
                     "amount": 1,
                     "unit": "M2",
                     "lifespan": 50,
@@ -160,14 +160,14 @@
                     "delayed_start": 0
                 }
             },
-            "f505dd74-09cc-45de-b7b8-d47ed09dfe05",
+            "d84b79d6-44c0-4ade-a662-cc44ce677b97",
             "51bcec85-9105-4946-8a8a-51219bf9adfa"
         ]
     },
     {
         "Node": {
             "Construction": {
-                "id": "28b804b6-f876-4b80-ab20-1d74f9bfd964",
+                "id": "e4901932-b821-42db-9632-a0d22cf6f1b3",
                 "name": {
                     "Danish": "Floor:eS100",
                     "English": "Test construction"
@@ -184,7 +184,7 @@
         "Edge": [
             {
                 "ConstructionToProduct": {
-                    "id": "5ef66ae1-fe47-465f-9bab-bc6260ec113c",
+                    "id": "7939115c-4f58-4fc1-8c68-c8449eab5270",
                     "amount": 1,
                     "unit": "M2",
                     "lifespan": 50,
@@ -193,14 +193,14 @@
                     "delayed_start": 0
                 }
             },
-            "28b804b6-f876-4b80-ab20-1d74f9bfd964",
+            "e4901932-b821-42db-9632-a0d22cf6f1b3",
             "51bcec85-9105-4946-8a8a-51219bf9adfa"
         ]
     },
     {
         "Node": {
             "Construction": {
-                "id": "344031aa-e6fa-44fb-a06d-bcfa8dd242b0",
+                "id": "09e90c3a-c998-4129-9028-0f518570a77f",
                 "name": {
                     "Danish": "Window-T1:O01",
                     "English": "Test construction"
@@ -217,7 +217,7 @@
         "Edge": [
             {
                 "ConstructionToProduct": {
-                    "id": "e0b2b056-17a0-4252-842a-dc6bf82848bd",
+                    "id": "d3788424-2c24-4fe7-b1e1-94d0a24ed43e",
                     "amount": 1,
                     "unit": "M2",
                     "lifespan": 50,
@@ -226,14 +226,14 @@
                     "delayed_start": 0
                 }
             },
-            "344031aa-e6fa-44fb-a06d-bcfa8dd242b0",
+            "09e90c3a-c998-4129-9028-0f518570a77f",
             "51bcec85-9105-4946-8a8a-51219bf9adfa"
         ]
     },
     {
         "Node": {
             "Construction": {
-                "id": "e24592fe-5a59-47b7-9f92-0fb7ccb85f4c",
+                "id": "09998617-00bf-42ec-945a-f326a8ac2a0e",
                 "name": {
                     "Danish": "Window-T1:O02",
                     "English": "Test construction"
@@ -250,7 +250,7 @@
         "Edge": [
             {
                 "ConstructionToProduct": {
-                    "id": "29b3c299-a594-49bf-a94d-c8f18616b09c",
+                    "id": "d3ea76dd-fca2-436f-82c6-7df464919471",
                     "amount": 1,
                     "unit": "M2",
                     "lifespan": 50,
@@ -259,14 +259,14 @@
                     "delayed_start": 0
                 }
             },
-            "e24592fe-5a59-47b7-9f92-0fb7ccb85f4c",
+            "09998617-00bf-42ec-945a-f326a8ac2a0e",
             "51bcec85-9105-4946-8a8a-51219bf9adfa"
         ]
     },
     {
         "Node": {
             "Construction": {
-                "id": "41a90a14-dac5-44a6-8bd6-41cbe9fb3298",
+                "id": "9cde7c0a-9458-4e0e-9350-a17f5f2c3325",
                 "name": {
                     "Danish": "Window-T1:O03",
                     "English": "Test construction"
@@ -283,7 +283,7 @@
         "Edge": [
             {
                 "ConstructionToProduct": {
-                    "id": "affb6423-5b28-4b04-8b81-cb8e729be072",
+                    "id": "e874a98a-7a76-4b57-98cf-8996026a8dd2",
                     "amount": 1,
                     "unit": "M2",
                     "lifespan": 50,
@@ -292,14 +292,14 @@
                     "delayed_start": 0
                 }
             },
-            "41a90a14-dac5-44a6-8bd6-41cbe9fb3298",
+            "9cde7c0a-9458-4e0e-9350-a17f5f2c3325",
             "51bcec85-9105-4946-8a8a-51219bf9adfa"
         ]
     },
     {
         "Node": {
             "Construction": {
-                "id": "0826225d-d21a-4860-9e76-3c111b65626c",
+                "id": "0df7101e-ff70-4232-8c2e-b9cf66477edb",
                 "name": {
                     "Danish": "Railing:1100mm",
                     "English": "Test construction"
@@ -316,7 +316,7 @@
         "Edge": [
             {
                 "ConstructionToProduct": {
-                    "id": "77a48ca7-87cc-45a0-88fd-3edcb9a240d6",
+                    "id": "3d1d840d-b66a-4dfd-9a89-a57a59dce6ae",
                     "amount": 1,
                     "unit": "M",
                     "lifespan": 50,
@@ -325,14 +325,14 @@
                     "delayed_start": 0
                 }
             },
-            "0826225d-d21a-4860-9e76-3c111b65626c",
+            "0df7101e-ff70-4232-8c2e-b9cf66477edb",
             "51bcec85-9105-4946-8a8a-51219bf9adfa"
         ]
     },
     {
         "Node": {
             "Construction": {
-                "id": "aeb9cd6d-977e-4677-a1d0-dd92e59266e5",
+                "id": "6215df61-9b85-4b2e-b7c0-12e463211783",
                 "name": {
                     "Danish": "Railing:Glass_panel",
                     "English": "Test construction"
@@ -349,7 +349,7 @@
         "Edge": [
             {
                 "ConstructionToProduct": {
-                    "id": "5378f327-4018-47c9-9d58-0a2182178c4c",
+                    "id": "107724a9-dcdb-4d45-b254-c4052f045fcb",
                     "amount": 1,
                     "unit": "M",
                     "lifespan": 50,
@@ -358,14 +358,14 @@
                     "delayed_start": 0
                 }
             },
-            "aeb9cd6d-977e-4677-a1d0-dd92e59266e5",
+            "6215df61-9b85-4b2e-b7c0-12e463211783",
             "51bcec85-9105-4946-8a8a-51219bf9adfa"
         ]
     },
     {
         "Node": {
             "Construction": {
-                "id": "3587d80c-0060-4c4e-849c-b2062e5bece1",
+                "id": "8e81bed8-ed44-45db-896d-a4e0fcf3dc5b",
                 "name": {
                     "Danish": "System Panel:Glazed",
                     "English": "Test construction"
@@ -382,7 +382,7 @@
         "Edge": [
             {
                 "ConstructionToProduct": {
-                    "id": "4f80243f-1135-4b2e-a280-2bf1fd69246a",
+                    "id": "d2c8fbec-3c24-4d92-8600-63eadbddac35",
                     "amount": 1,
                     "unit": "M2",
                     "lifespan": 50,
@@ -391,14 +391,14 @@
                     "delayed_start": 0
                 }
             },
-            "3587d80c-0060-4c4e-849c-b2062e5bece1",
+            "8e81bed8-ed44-45db-896d-a4e0fcf3dc5b",
             "51bcec85-9105-4946-8a8a-51219bf9adfa"
         ]
     },
     {
         "Node": {
             "Construction": {
-                "id": "9076f874-dcd4-4873-b959-6c746f7653fd",
+                "id": "45a5a253-3b30-47d6-b26c-ca733eb4a0b8",
                 "name": {
                     "Danish": "System Panel:Solid",
                     "English": "Test construction"
@@ -415,7 +415,7 @@
         "Edge": [
             {
                 "ConstructionToProduct": {
-                    "id": "16d109c0-96da-4c1a-8a1a-7c14fa410a4f",
+                    "id": "7ccfb95e-df7e-4aa5-97e5-2e7ba81e6bb5",
                     "amount": 1,
                     "unit": "M2",
                     "lifespan": 50,
@@ -424,14 +424,14 @@
                     "delayed_start": 0
                 }
             },
-            "9076f874-dcd4-4873-b959-6c746f7653fd",
+            "45a5a253-3b30-47d6-b26c-ca733eb4a0b8",
             "51bcec85-9105-4946-8a8a-51219bf9adfa"
         ]
     },
     {
         "Node": {
             "Construction": {
-                "id": "9d5d9c79-0274-4231-a1a5-98b8e6cf1342",
+                "id": "e99ba864-68be-4938-935e-e16c99de3a19",
                 "name": {
                     "Danish": "Rectangular Mullion:50mm x 150mm",
                     "English": "Test construction"
@@ -448,7 +448,7 @@
         "Edge": [
             {
                 "ConstructionToProduct": {
-                    "id": "f56bc61c-acb9-4b68-9337-a1b8aafcdcb0",
+                    "id": "b7f5c970-c085-4178-b760-26eb9d44262f",
                     "amount": 1,
                     "unit": "M",
                     "lifespan": 50,
@@ -457,7 +457,7 @@
                     "delayed_start": 0
                 }
             },
-            "9d5d9c79-0274-4231-a1a5-98b8e6cf1342",
+            "e99ba864-68be-4938-935e-e16c99de3a19",
             "51bcec85-9105-4946-8a8a-51219bf9adfa"
         ]
     }
