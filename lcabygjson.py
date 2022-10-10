@@ -256,3 +256,43 @@ def get_railings_dataframe(ifc_file):
     except:
       print("An exception occurred")
     return railings_types_sum_df
+def get_cw_panels_dataframe(ifc_file):
+    cw_panels = ifc_file.by_type('IfcPlate')
+    cw_panels_types = list()
+    cw_panels_areas = list()
+    for i in range(len(cw_panels)):
+        cw_panels_areas.append(ifcHelper.get_property_single_value(ifcHelper.get_related_property_sets(cw_panels[i])[1])['Area'])
+        cw_panels_types.append(cw_panels[i].ObjectType)
+
+
+    cw_p_s = {'Type':cw_panels_types,'Area':cw_panels_areas}
+    cw_panels_df = pd.DataFrame(cw_p_s)
+    cw_panels_types_sum = cw_panels_df.groupby('Type')['Area'].sum().reset_index()
+
+    try:
+      cw_panels_types_sum_df = pd.DataFrame(cw_panels_types_sum)
+      print("Curtain Wall panels loaded successfully")
+    except:
+      print("An exception occurred")
+    return cw_panels_types_sum_df
+
+def get_cw_mullions_dataframe(ifc_file):
+    cw_mullions = ifc_file.by_type('IfcMember')
+    cw_mullions_types = list()
+    cw_mullions_lengths = list()
+    for i in range(len(cw_mullions)):
+        quantities_cw_mullions = ifcHelper.get_quantity_single_value(ifcHelper.get_related_quantities(cw_mullions[i])[0])
+        cw_mullions_lengths.append(quantities_cw_mullions['Length']/1000)
+        cw_mullions_types.append(cw_mullions[i].ObjectType)
+
+
+    cw_m_s = {'Type':cw_mullions_types,'Length':cw_mullions_lengths}
+    cw_mullions_df = pd.DataFrame(cw_m_s)
+    cw_mullions_types_sum = cw_mullions_df.groupby('Type')['Length'].sum().reset_index()
+
+    try:
+      cw_mullions_types_sum_df =  pd.DataFrame(cw_mullions_types_sum)
+      print("Curtain Wall panels loaded successfully")
+    except:
+      print("An exception occurred")
+    return cw_mullions_types_sum_df 
