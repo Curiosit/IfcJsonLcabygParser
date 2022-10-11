@@ -1,0 +1,18 @@
+---
+project_templates:
+    -
+        name: {Danish: "Tomt projekt"}
+        res:
+            - Embedded: 78e25193-ae91-4b6e-94d5-e87e330a423d
+            - Embedded: b5ca0ecf-52fc-461c-babe-7c763dc067ef
+    -
+        name: {Danish: "Enfamiliehus, eksempelbygning"}
+        res:
+            - Embedded: be875f31-8a08-4494-8f9b-a521645b8ad3
+            - Embedded: b5ca0ecf-52fc-461c-babe-7c763dc067ef
+    -
+        name: {Danish: "JSON Import-Export"}
+        res:
+            - JsonFolder: C:\Users\Dell\Documents\GitHub\Ifcparser\lcabyg_example
+            - Embedded: b5ca0ecf-52fc-461c-babe-7c763dc067ef
+            
