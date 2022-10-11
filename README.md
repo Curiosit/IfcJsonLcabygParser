@@ -2,13 +2,13 @@
 IfcJsonLcabygParser is a Python script for automatical creating material takeoff from a properly exported IFC2X3 file, and converting that to JSON file format, to finally import into danish LCAByg program for calculating Carbon Footprint of buildings.
 
 # Requirements
-IfcOpenShell (https://github.com/IfcOpenShell/IfcOpenShell)
-JSON
-Pandas
-Numpy
-uuid
+- IfcOpenShell (https://github.com/IfcOpenShell/IfcOpenShell)
+- JSON
+- Pandas
+- Numpy
+- uuid
 
-notebook.yml shows my current configuration of the python environment.
+notebook.yml shows my current working configuration of the python environment with package versions.
 
 2 own libraries are being used here, both partially based on external code: 
 ifcHelper.py
@@ -38,10 +38,10 @@ You need to setup engine.yaml file in your main LCAByg folder. The path to "IfcJ
 
 
 # Important sources:
-https://github.com/johannesmichael/ifc-python/blob/master/modules/ifc_pset_utils.py
-https://thinkmoult.com/using-ifcopenshell-parse-ifc-files-python.html
-https://github.com/johannesmichael/ifc-python/blob/master/modules/ifc_pset_utils.py
-https://www.kaggle.com/code/ponybiam/introduction-to-ifcopenshell-functions/notebook
-https://blenderbim.org/docs-python/ifcopenshell-python/hello_world.html
+- https://github.com/johannesmichael/ifc-python/blob/master/modules/ifc_pset_utils.py
+- https://thinkmoult.com/using-ifcopenshell-parse-ifc-files-python.html
+- https://github.com/johannesmichael/ifc-python/blob/master/modules/ifc_pset_utils.py
+- https://www.kaggle.com/code/ponybiam/introduction-to-ifcopenshell-functions/notebook
+- https://blenderbim.org/docs-python/ifcopenshell-python/hello_world.html
 
 
