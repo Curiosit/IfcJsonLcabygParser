@@ -1,0 +1,27 @@
+[
+    {
+        "Node": {
+            "EmbodiedRoot": {
+                "id": "216cf5d6-3e9d-43ec-b0d8-5aee02240c28"
+            }
+        }
+    },
+    {
+        "Edge": [
+            {
+                "RootToModel": "1191a67b-c672-43fc-b2b7-724bc62b974a"
+            },
+            "216cf5d6-3e9d-43ec-b0d8-5aee02240c28",
+            "aeefab8a-e825-4d14-b0c3-e87b7759e5b2"
+        ]
+    },
+    {
+        "Edge": [
+            {
+                "RootToConstructionProcess": "48781119-3992-4e48-9099-e8e8654a4935"
+            },
+            "216cf5d6-3e9d-43ec-b0d8-5aee02240c28",
+            "349738da-9747-4d5c-b508-2a810317166f"
+        ]
+    }
+]

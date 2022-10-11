@@ -11,8 +11,8 @@ project_templates:
             - Embedded: be875f31-8a08-4494-8f9b-a521645b8ad3
             - Embedded: b5ca0ecf-52fc-461c-babe-7c763dc067ef
     -
-        name: {Danish: "JSON Import-Export"}
+        name: {Danish: "IfcJsonLcabygParser"}
         res:
-            - JsonFolder: C:\Users\Dell\Documents\GitHub\Ifcparser\lcabyg_example
+            - JsonFolder: C:\Users\Dell\Documents\GitHub\Ifcparser\lcabyg_json
             - Embedded: b5ca0ecf-52fc-461c-babe-7c763dc067ef
             

@@ -34,6 +34,8 @@ LCAByg is a danish LCA (carbon footprint) assessment program developed by by BUI
 
 # Importing the files to LCAByg
 The import follows the method from the JSON guide by LCAByg (lcabyg5_json_guide). The script creates 4 JSON files: elements.json constructions.json element_category_edges.json and constructions_extra.json that are needed to be replaced from the default import_example.
+You need to setup engine.yaml file in your main LCAByg folder. The path to "IfcJsonLcabygParser" should be set to lcabyg_json folder
+
 
 # Important sources:
 https://github.com/johannesmichael/ifc-python/blob/master/modules/ifc_pset_utils.py

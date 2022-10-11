@@ -1,0 +1,56 @@
+[
+    {
+        "Node": {
+            "Product": {
+                "id": "51bcec85-9105-4946-8a8a-51219bf9adfa",
+                "name": {
+                    "Danish": "Test byggevare m2",
+                    "English": "Test product m2",
+                    "German": ""
+                },
+                "source": "User",
+                "comment": "",
+                "locked": true
+            }
+        }
+	},
+	{
+		"Node": {
+            "Product": {
+                "id": "5dcafff0-1ec7-49e7-b425-fff6d1a0e03f",
+                "name": {
+                    "Danish": "Test byggevare m",
+                    "English": "Test product m",
+                    "German": ""
+                },
+                "source": "User",
+                "comment": "",
+                "locked": true
+            }
+        }
+    },
+	{
+        "Edge": [
+            {
+                "ProductToStage": {
+                    "id": "b5fa60ba-c513-48a0-83e7-42258b2f8e5e",
+                    "enabled": true
+                }
+            },
+            "51bcec85-9105-4946-8a8a-51219bf9adfa",
+            "61a77bc8-bddb-4521-9862-e613e26a5661"
+        ]
+    },
+	{
+        "Edge": [
+            {
+                "ProductToStage": {
+                    "id": "f56a451a-68f3-443c-8593-8a22e9e6b6c8",
+                    "enabled": true
+                }
+            },
+            "5dcafff0-1ec7-49e7-b425-fff6d1a0e03f",
+            "e85a401f-2cb7-4de5-a3a2-ac222cfad9ef"
+        ]
+    }
+]

@@ -1,0 +1,280 @@
+[
+    {
+        "Node": {
+            "Element": {
+                "id": "02c3e303-a443-4f02-9927-e43519227ade",
+                "name": {
+                    "Danish": "Walls",
+                    "English": "",
+                    "German": ""
+                },
+                "source": "User",
+                "comment": "Created by IfcJsonLcabygParser. https://github.com/Curiosit/IfcJsonLcabygParser",
+                "enabled": true,
+                "active": true
+            }
+        }
+    },
+    {
+        "Edge": [
+            {
+                "ElementToConstruction": {
+                    "id": "cc725768-ca58-4920-a9a5-a96b3e11107b",
+                    "amount": 131.843051958342,
+                    "enabled": true
+                }
+            },
+            "02c3e303-a443-4f02-9927-e43519227ade",
+            "4f6c44d6-5379-4ad0-a932-01bb38c4b3a4"
+        ]
+    },
+    {
+        "Edge": [
+            {
+                "ElementToConstruction": {
+                    "id": "d393655c-62a0-40db-b23a-41576bf6de84",
+                    "amount": 141.76027261991248,
+                    "enabled": true
+                }
+            },
+            "02c3e303-a443-4f02-9927-e43519227ade",
+            "132e42f4-d350-4474-a186-265eae45f540"
+        ]
+    },
+    {
+        "Edge": [
+            {
+                "ElementToConstruction": {
+                    "id": "28c6ad39-8979-4cc8-9d02-e820193a361c",
+                    "amount": 207.8446145163202,
+                    "enabled": true
+                }
+            },
+            "02c3e303-a443-4f02-9927-e43519227ade",
+            "6dfa5eb1-d025-4551-8bce-97630a91965a"
+        ]
+    },
+    {
+        "Node": {
+            "Element": {
+                "id": "0db31314-81d6-4d1a-9254-89789ce78b10",
+                "name": {
+                    "Danish": "Slabs",
+                    "English": "",
+                    "German": ""
+                },
+                "source": "User",
+                "comment": "Created by IfcJsonLcabygParser. https://github.com/Curiosit/IfcJsonLcabygParser",
+                "enabled": true,
+                "active": true
+            }
+        }
+    },
+    {
+        "Edge": [
+            {
+                "ElementToConstruction": {
+                    "id": "03c26ca9-a951-4412-a992-bd7467ef1330",
+                    "amount": 3613.543399325796,
+                    "enabled": true
+                }
+            },
+            "0db31314-81d6-4d1a-9254-89789ce78b10",
+            "2a6ab30a-da68-4cfa-8bb7-50b6c94a361a"
+        ]
+    },
+    {
+        "Edge": [
+            {
+                "ElementToConstruction": {
+                    "id": "3fe4c100-783f-4700-9203-405e4f83c79a",
+                    "amount": 541.587880260348,
+                    "enabled": true
+                }
+            },
+            "0db31314-81d6-4d1a-9254-89789ce78b10",
+            "9afd2bbb-86c5-43de-967f-c8e016eccd6d"
+        ]
+    },
+    {
+        "Edge": [
+            {
+                "ElementToConstruction": {
+                    "id": "213be3d4-fba2-4a9d-9aa3-35b1baefdb2d",
+                    "amount": 113.584765395699,
+                    "enabled": true
+                }
+            },
+            "0db31314-81d6-4d1a-9254-89789ce78b10",
+            "414afa28-d763-4f00-bc34-55fa0b5438f0"
+        ]
+    },
+    {
+        "Node": {
+            "Element": {
+                "id": "3f4b6468-b2a6-475c-b928-cdee1baaef26",
+                "name": {
+                    "Danish": "Windows",
+                    "English": "",
+                    "German": ""
+                },
+                "source": "User",
+                "comment": "Created by IfcJsonLcabygParser. https://github.com/Curiosit/IfcJsonLcabygParser",
+                "enabled": true,
+                "active": true
+            }
+        }
+    },
+    {
+        "Edge": [
+            {
+                "ElementToConstruction": {
+                    "id": "99cf4e9d-6eb9-4662-a6ff-a2ef800b3941",
+                    "amount": 1.553616000000086,
+                    "enabled": true
+                }
+            },
+            "3f4b6468-b2a6-475c-b928-cdee1baaef26",
+            "bb4b7274-b9a8-400b-ac54-01040fe44f3e"
+        ]
+    },
+    {
+        "Edge": [
+            {
+                "ElementToConstruction": {
+                    "id": "0be270e4-d1b2-4145-849f-d1e94469f42a",
+                    "amount": 4.78735400000013,
+                    "enabled": true
+                }
+            },
+            "3f4b6468-b2a6-475c-b928-cdee1baaef26",
+            "e9de7547-f8de-44f4-941d-544dbefd11a7"
+        ]
+    },
+    {
+        "Edge": [
+            {
+                "ElementToConstruction": {
+                    "id": "990c1d03-f803-4ea5-8efb-3aa8ade883c0",
+                    "amount": 55.62255600000144,
+                    "enabled": true
+                }
+            },
+            "3f4b6468-b2a6-475c-b928-cdee1baaef26",
+            "05b8f6a8-b299-4b38-b7a9-a581f3aba0a1"
+        ]
+    },
+    {
+        "Node": {
+            "Element": {
+                "id": "240bf481-84d1-42d1-aa9d-20f068469482",
+                "name": {
+                    "Danish": "Railings",
+                    "English": "",
+                    "German": ""
+                },
+                "source": "User",
+                "comment": "Created by IfcJsonLcabygParser. https://github.com/Curiosit/IfcJsonLcabygParser",
+                "enabled": true,
+                "active": true
+            }
+        }
+    },
+    {
+        "Edge": [
+            {
+                "ElementToConstruction": {
+                    "id": "721228f6-075e-42c2-944c-76ed66725c18",
+                    "amount": 11200.0,
+                    "enabled": true
+                }
+            },
+            "240bf481-84d1-42d1-aa9d-20f068469482",
+            "37f17c81-4ebf-4aa2-8e19-82015e2dc6e1"
+        ]
+    },
+    {
+        "Edge": [
+            {
+                "ElementToConstruction": {
+                    "id": "cc839815-7ff5-4055-8f21-1f571b4b4835",
+                    "amount": 8296.43611834863,
+                    "enabled": true
+                }
+            },
+            "240bf481-84d1-42d1-aa9d-20f068469482",
+            "5b2e83b5-6437-4f54-8e72-29fe2574d7ad"
+        ]
+    },
+    {
+        "Node": {
+            "Element": {
+                "id": "db6160a3-1f62-4dbd-b7a4-fa456a370e2a",
+                "name": {
+                    "Danish": "Curtain Wall Panels",
+                    "English": "",
+                    "German": ""
+                },
+                "source": "User",
+                "comment": "Created by IfcJsonLcabygParser. https://github.com/Curiosit/IfcJsonLcabygParser",
+                "enabled": true,
+                "active": true
+            }
+        }
+    },
+    {
+        "Edge": [
+            {
+                "ElementToConstruction": {
+                    "id": "d900ed7d-70a9-401e-af3d-0cae2b3c8e7f",
+                    "amount": 121.45032688974773,
+                    "enabled": true
+                }
+            },
+            "db6160a3-1f62-4dbd-b7a4-fa456a370e2a",
+            "5594b663-53db-41ca-bf95-8b0524bdc357"
+        ]
+    },
+    {
+        "Edge": [
+            {
+                "ElementToConstruction": {
+                    "id": "c4c2e303-f284-41f4-9c34-d907b1abb4b7",
+                    "amount": 39.472593831489,
+                    "enabled": true
+                }
+            },
+            "db6160a3-1f62-4dbd-b7a4-fa456a370e2a",
+            "58c81d42-00c7-42e5-ba34-5121cf13b7ec"
+        ]
+    },
+    {
+        "Node": {
+            "Element": {
+                "id": "f0a25bb1-ef2c-466e-b527-bfef3282e0de",
+                "name": {
+                    "Danish": "Curtain Wall Mullions",
+                    "English": "",
+                    "German": ""
+                },
+                "source": "User",
+                "comment": "Created by IfcJsonLcabygParser. https://github.com/Curiosit/IfcJsonLcabygParser",
+                "enabled": true,
+                "active": true
+            }
+        }
+    },
+    {
+        "Edge": [
+            {
+                "ElementToConstruction": {
+                    "id": "12b979e1-b532-46bb-93e7-e2e20d676a0b",
+                    "amount": 1302.6094339380331,
+                    "enabled": true
+                }
+            },
+            "f0a25bb1-ef2c-466e-b527-bfef3282e0de",
+            "409f34c8-e219-4147-bf78-3ba2960543e3"
+        ]
+    }
+]

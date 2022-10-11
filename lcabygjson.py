@@ -53,7 +53,9 @@ def append_lcabyg_element(lcabyg_elements, construction_amount, construction_nam
     #element_id = '02c3e303-a443-4f02-9927-e43519227ade'
     #construction_id = 'c6f24e0f-020a-4f0f-93c6-65beb50bd798'
     element_category_id = '069983d0-d08b-405b-b816-d28ca9648956'
-    product_id = '51bcec85-9105-4946-8a8a-51219bf9adfa'
+    product_id_m2 ='51bcec85-9105-4946-8a8a-51219bf9adfa' #m2
+    product_id_m = '5dcafff0-1ec7-49e7-b425-fff6d1a0e03f' #m
+    
     
     #construction_edge_id = '65cc0492-7864-4598-9254-5f929379bae6'
     #element_edge_id = 'e66c3d76-eae6-4c6b-86f7-e9178bc8f804'
@@ -103,6 +105,12 @@ def append_lcabyg_element(lcabyg_elements, construction_amount, construction_nam
         
         
         ################ CONSTRUCTIONS.JSON
+        product_id=''
+        if unit == 'M2':
+            product_id = product_id_m2
+        else:
+            product_id = product_id_m
+        
         construction_properties = {'id': construction_id[i],  'name': {'Danish': construction_name[i], 'English': 'Test construction'},'unit': unit, 'source': 'User','comment': comment,'layer': 1,'locked': True}
         construction_set = {'Construction': construction_properties}
         construction_node = {'Node': construction_set}

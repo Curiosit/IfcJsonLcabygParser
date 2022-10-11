@@ -1,0 +1,16 @@
+[
+    {
+        "Node": {
+            "Project": {
+                "id": "e9e6e798-390e-4419-a1fa-3b46a8ba5b8d",
+				"name": {
+					"Danish": "IfcJsonLcabygParser import from IFC example"
+				},
+				"address": "https://github.com/Curiosit/IfcJsonLcabygParser",
+				"owner": "",
+				"lca_advisor": "",
+				"building_regulation_version": "11.10.2022"
+            }
+        }
+    }
+]
